@@ -19,7 +19,7 @@ A simple command-line password manager built with Python. Supports secure passwo
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/password-manager.git
+   git clone https://github.com/AshishAGP-dev/password-manager.git
    cd password-manager
 
 2. (Optional) Create a virtual environment:
